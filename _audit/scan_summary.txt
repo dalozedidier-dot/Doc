@@ -1,12 +1,3 @@
-index.html: 2082 chars, 49 lines
-  doublons: 0, artefacts: 6
-  cmds hors maths: 0, @on/off hors maths: 0
-  unicode suspects: aucun
-civ/index.html: 123261 chars, 1015 lines
-  doublons: 27, artefacts: 1304
-  cmds hors maths: 0, @on/off hors maths: 0
-  unicode suspects: aucun
-nep/index.html: 10664 chars, 132 lines
-  doublons: 1, artefacts: 44
-  cmds hors maths: 0, @on/off hors maths: 0
-  unicode suspects: aucun
+index.html: dups=0 artifacts=0 chars=2082
+civ/index.html: dups=0 artifacts=0 chars=123416
+nep/index.html: dups=0 artifacts=0 chars=10664

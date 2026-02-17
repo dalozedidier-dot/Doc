@@ -1,0 +1,71 @@
+{
+  "generated_utc": "2026-02-17T09:30:25Z",
+  "notes": "Scan basé sur extraction texte visible depuis HTML (suppression des balises), puis comptages ciblés des artefacts. Indicateurs 'mash_et_between_math' comptent les occurrences de ') et (' entre formules, ce n'est pas forcément une erreur.",
+  "files": {
+    "civ/index.html": {
+      "length_chars": 97765,
+      "unicode_ge": 0,
+      "unicode_le": 0,
+      "unicode_approx": 0,
+      "mash_et_between_math": 27,
+      "mash_no_space_et": 0,
+      "corrupted_le0langle": false,
+      "stray_requis_par": false,
+      "dup_inline_math": 0,
+      "dup_at_d": 0,
+      "et_ou_collés": 0
+    },
+    "civ.html": {
+      "length_chars": 97765,
+      "unicode_ge": 0,
+      "unicode_le": 0,
+      "unicode_approx": 0,
+      "mash_et_between_math": 27,
+      "mash_no_space_et": 0,
+      "corrupted_le0langle": false,
+      "stray_requis_par": false,
+      "dup_inline_math": 0,
+      "dup_at_d": 0,
+      "et_ou_collés": 0
+    },
+    "index.html": {
+      "length_chars": 546,
+      "unicode_ge": 0,
+      "unicode_le": 0,
+      "unicode_approx": 0,
+      "mash_et_between_math": 0,
+      "mash_no_space_et": 0,
+      "corrupted_le0langle": false,
+      "stray_requis_par": false,
+      "dup_inline_math": 0,
+      "dup_at_d": 0,
+      "et_ou_collés": 0
+    },
+    "nep/index.html": {
+      "length_chars": 7574,
+      "unicode_ge": 0,
+      "unicode_le": 0,
+      "unicode_approx": 0,
+      "mash_et_between_math": 4,
+      "mash_no_space_et": 0,
+      "corrupted_le0langle": false,
+      "stray_requis_par": false,
+      "dup_inline_math": 0,
+      "dup_at_d": 0,
+      "et_ou_collés": 0
+    },
+    "nep.html": {
+      "length_chars": 7574,
+      "unicode_ge": 0,
+      "unicode_le": 0,
+      "unicode_approx": 0,
+      "mash_et_between_math": 4,
+      "mash_no_space_et": 0,
+      "corrupted_le0langle": false,
+      "stray_requis_par": false,
+      "dup_inline_math": 0,
+      "dup_at_d": 0,
+      "et_ou_collés": 0
+    }
+  }
+}
