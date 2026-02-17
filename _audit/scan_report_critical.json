@@ -1,0 +1,567 @@
+{
+  "build": "2026-02-17",
+  "files": [
+    {
+      "path": "index.html",
+      "doublons_consecutifs": [],
+      "artefacts_critical": [],
+      "latex_commands_outside_math": [],
+      "at_on_off_outside_math": [],
+      "unicode_counts": {
+        "—": 0,
+        "–": 0,
+        "−": 0,
+        "≥": 0,
+        "≤": 0,
+        "≠": 0,
+        "≈": 0
+      }
+    },
+    {
+      "path": "civ/index.html",
+      "doublons_consecutifs": [
+        {
+          "ligne": 200,
+          "texte": "</section>",
+          "repetitions": 10,
+          "positions": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209
+          ]
+        },
+        {
+          "ligne": 209,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ]
+        },
+        {
+          "ligne": 314,
+          "texte": "</section>",
+          "repetitions": 4,
+          "positions": [
+            314,
+            315,
+            316,
+            317
+          ]
+        },
+        {
+          "ligne": 489,
+          "texte": "</section>",
+          "repetitions": 8,
+          "positions": [
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496
+          ]
+        },
+        {
+          "ligne": 506,
+          "texte": "</section>",
+          "repetitions": 8,
+          "positions": [
+            506,
+            507,
+            508,
+            509,
+            510,
+            511,
+            512,
+            513
+          ]
+        },
+        {
+          "ligne": 513,
+          "texte": "</section>",
+          "repetitions": 5,
+          "positions": [
+            513,
+            514,
+            515,
+            516,
+            517
+          ]
+        },
+        {
+          "ligne": 517,
+          "texte": "</section>",
+          "repetitions": 7,
+          "positions": [
+            517,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523
+          ]
+        },
+        {
+          "ligne": 523,
+          "texte": "</section>",
+          "repetitions": 8,
+          "positions": [
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530
+          ]
+        },
+        {
+          "ligne": 541,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            541,
+            542,
+            543,
+            544,
+            545,
+            546,
+            547,
+            548,
+            549
+          ]
+        },
+        {
+          "ligne": 575,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            575,
+            576,
+            577,
+            578,
+            579,
+            580,
+            581,
+            582,
+            583
+          ]
+        },
+        {
+          "ligne": 583,
+          "texte": "</section>",
+          "repetitions": 10,
+          "positions": [
+            583,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            592
+          ]
+        },
+        {
+          "ligne": 603,
+          "texte": "</section>",
+          "repetitions": 10,
+          "positions": [
+            603,
+            604,
+            605,
+            606,
+            607,
+            608,
+            609,
+            610,
+            611,
+            612
+          ]
+        },
+        {
+          "ligne": 645,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            645,
+            646,
+            647,
+            648,
+            649,
+            650,
+            651,
+            652,
+            653
+          ]
+        },
+        {
+          "ligne": 653,
+          "texte": "</section>",
+          "repetitions": 10,
+          "positions": [
+            653,
+            654,
+            655,
+            656,
+            657,
+            658,
+            659,
+            660,
+            661,
+            662
+          ]
+        },
+        {
+          "ligne": 662,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            662,
+            663,
+            664,
+            665,
+            666,
+            667,
+            668,
+            669,
+            670
+          ]
+        },
+        {
+          "ligne": 670,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            670,
+            671,
+            672,
+            673,
+            674,
+            675,
+            676,
+            677,
+            678
+          ]
+        },
+        {
+          "ligne": 678,
+          "texte": "</section>",
+          "repetitions": 8,
+          "positions": [
+            678,
+            679,
+            680,
+            681,
+            682,
+            683,
+            684,
+            685
+          ]
+        },
+        {
+          "ligne": 728,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            728,
+            729,
+            730,
+            731,
+            732,
+            733,
+            734,
+            735,
+            736
+          ]
+        },
+        {
+          "ligne": 767,
+          "texte": "</section>",
+          "repetitions": 6,
+          "positions": [
+            767,
+            768,
+            769,
+            770,
+            771,
+            772
+          ]
+        },
+        {
+          "ligne": 815,
+          "texte": "</section>",
+          "repetitions": 7,
+          "positions": [
+            815,
+            816,
+            817,
+            818,
+            819,
+            820,
+            821
+          ]
+        },
+        {
+          "ligne": 821,
+          "texte": "</section>",
+          "repetitions": 10,
+          "positions": [
+            821,
+            822,
+            823,
+            824,
+            825,
+            826,
+            827,
+            828,
+            829,
+            830
+          ]
+        },
+        {
+          "ligne": 830,
+          "texte": "</section>",
+          "repetitions": 8,
+          "positions": [
+            830,
+            831,
+            832,
+            833,
+            834,
+            835,
+            836,
+            837
+          ]
+        },
+        {
+          "ligne": 853,
+          "texte": "</section>",
+          "repetitions": 7,
+          "positions": [
+            853,
+            854,
+            855,
+            856,
+            857,
+            858,
+            859
+          ]
+        },
+        {
+          "ligne": 873,
+          "texte": "\\]</div><div class=\"mathblock\">\\[",
+          "repetitions": 9,
+          "positions": [
+            873,
+            874,
+            875,
+            876,
+            877,
+            878,
+            879,
+            880,
+            881
+          ]
+        },
+        {
+          "ligne": 946,
+          "texte": "</section>",
+          "repetitions": 9,
+          "positions": [
+            946,
+            947,
+            948,
+            949,
+            950,
+            951,
+            952,
+            953,
+            954
+          ]
+        },
+        {
+          "ligne": 980,
+          "texte": "</section>",
+          "repetitions": 6,
+          "positions": [
+            980,
+            981,
+            982,
+            983,
+            984,
+            985
+          ]
+        },
+        {
+          "ligne": 1004,
+          "texte": "</section>",
+          "repetitions": 5,
+          "positions": [
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+          ]
+        }
+      ],
+      "artefacts_critical": [
+        {
+          "motif": "[@$%&\\*]{2,}",
+          "description": "sequence de caracteres speciaux suspects",
+          "occurrence": "*&",
+          "contexte": "</span><span>Page 28 / 74</span></div> <p>Équilibre actif (P*&gt;0) : a-bO*-cP*=0 ⇒ O*=(a-cP*)/b. Puis E*=(αP*-βO*)/λ et R",
+          "position": 57850
+        },
+        {
+          "motif": "[@$%&\\*]{2,}",
+          "description": "sequence de caracteres speciaux suspects",
+          "occurrence": "*&",
+          "contexte": "donc :</p><div class=\"mathblock\">\\[j_{11}=a-bO^*-2cP^*=-cP^*&lt;0\\tag{5.11}\\]</div> </section> <section class=\"page\" id=\"",
+          "position": 59217
+        },
+        {
+          "motif": "[@$%&\\*]{2,}",
+          "description": "sequence de caracteres speciaux suspects",
+          "occurrence": "*&",
+          "contexte": "quilibre actif et simplification de j11. Équilibre actif : P*&gt;0 implique (via \\(\\frac{dP}{dt}\\)=0) : a-bO*-cP*=0 donc a",
+          "position": 110576
+        },
+        {
+          "motif": "[@$%&\\*]{2,}",
+          "description": "sequence de caracteres speciaux suspects",
+          "occurrence": "*&",
+          "contexte": "f : j11 = a-bO*-2cP* = cP*-2cP* = -cP* &lt; 0 si c&gt;0 et P*&gt;0.</p> </section> <section class=\"page\" id=\"p65\"><p><stro",
+          "position": 110726
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(O(t)\\) \\(\\to\\)",
+          "contexte": "vement à la capacité d’orientation.</li><li>Cas limite : si \\(O(t)\\) \\(\\to\\) 0, \\(@(t)\\) diverge (signal structurel : orientation effect",
+          "position": 34990
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(\\to\\) \\(\\frac{dP}{dt}\\)",
+          "contexte": "c compatibilité et non-contradiction.</p> <p>6.4 Couplage L \\(\\to\\) \\(\\frac{dP}{dt}\\) et L \\(\\to\\) \\(\\frac{dO}{dt}\\) Cette sous-section explicite",
+          "position": 74114
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(\\to\\) \\(\\frac{dO}{dt}\\)",
+          "contexte": "ction.</p> <p>6.4 Couplage L \\(\\to\\) \\(\\frac{dP}{dt}\\) et L \\(\\to\\) \\(\\frac{dO}{dt}\\) Cette sous-section explicite comment L agit sur la dynamiqu",
+          "position": 74145
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(L\\) doit s’activer au minimum si :</p><ul><li>\\(@(t) &gt; @_{\\mathrm{on}}\\) (persistant), ou</li><li>\\(\\Delta d(t) &gt; 0\\) (persistant).</li></ul><p>A2 : Mode stress. \\(L\\) doit entrer en mode renforcé si :</p><ul><li>\\(E(t) &gt; E_w\\) (persistant), ou</li><li>\\(R(t) &lt; R_w\\) (persistant).</li></ul><p>A3 : Traçabilité. Chaque activation doit être loggée avec :</p><p>conditions \\(\\to\\) niveau \\(L\\) \\(\\to\\)",
+          "contexte": "ctiver au minimum si :</h3><p>A1 : Conditions d’activation. \\(L\\) doit s’activer au minimum si :</p><ul><li>\\(@(t) &gt; @_{\\mathrm{on}}\\) (persistant), ou</li><li>\\(\\Delta d(t) &gt; 0\\) (persistant).</li></ul><p>A2 : Mode stress. \\(L\\) doit entrer en mode renforcé si :</p><ul><li>\\(E(t) &gt; E_w\\) (persistant), ou</li><li>\\(R(t) &lt; R_w\\) (persistant).</li></ul><p>A3 : Traçabilité. Chaque activation doit être loggée avec :</p><p>conditions \\(\\to\\) niveau \\(L\\) \\(\\to\\) actions \\(\\to\\) effets observés.</p> <h3 id=\"p43-h2\">7.2.4",
+          "position": 80707
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(\\to\\) orientation) On introduit un coefficient de légitimation \\(G(t)\\)\\(\\in\\)",
+          "contexte": "e.</p> <p>9.2.1 Variable de légitimation (couplage culturel \\(\\to\\) orientation) On introduit un coefficient de légitimation \\(G(t)\\)\\(\\in\\)[0,1]\\(G(t)\\)in[0,1]\\(G(t)\\)\\(\\in\\)[0,1] (acceptabilité/exéc",
+          "position": 102807
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(G(t)\\)in[0,1]\\(G(t)\\)\\(\\in\\)",
+          "contexte": "ntroduit un coefficient de légitimation \\(G(t)\\)\\(\\in\\)[0,1]\\(G(t)\\)in[0,1]\\(G(t)\\)\\(\\in\\)[0,1] (acceptabilité/exécutabilité sociale et institutionnel",
+          "position": 102892
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(\\frac{dP}{dt}\\) = \\(P(t)\\)·(a - b·\\(O(t)\\) - c·\\(P(t)\\)) \\(\\frac{dO}{dt}\\) = u - v·\\(P(t)\\) - n·\\(O(t)\\) - m·\\(E(t)\\) \\(\\frac{dE}{dt}\\)",
+          "contexte": ",E) et variable R) Rappel du système minimal (chapitre 5) : \\(\\frac{dP}{dt}\\) = \\(P(t)\\)·(a - b·\\(O(t)\\) - c·\\(P(t)\\)) \\(\\frac{dO}{dt}\\) = u - v·\\(P(t)\\) - n·\\(O(t)\\) - m·\\(E(t)\\) \\(\\frac{dE}{dt}\\) = α·\\(P(t)\\) - β·\\(O(t)\\) - λ·\\(E(t)\\) \\(\\frac{dR}{dt}\\) =",
+          "position": 109787
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(P(t)\\) - β·\\(O(t)\\) - λ·\\(E(t)\\) \\(\\frac{dR}{dt}\\)",
+          "contexte": "v·\\(P(t)\\) - n·\\(O(t)\\) - m·\\(E(t)\\) \\(\\frac{dE}{dt}\\) = α·\\(P(t)\\) - β·\\(O(t)\\) - λ·\\(E(t)\\) \\(\\frac{dR}{dt}\\) = δ·\\(O(t)\\) - γ·\\(E(t)\\) - ξ·\\(R(t)\\) Jacobienne au point",
+          "position": 109929
+        },
+        {
+          "motif": "\\\\\\(.*?\\\\\\)\\s*\\\\\\(.*?\\\\\\)",
+          "description": "formule LaTeX doublee consecutive",
+          "occurrence": "\\(P(t)\\), \\(O(t)\\), \\(@(t)\\), \\(\\Delta d(t)\\), \\(E(t)\\), \\(R(t)\\), L(t)</li><li>Métadonnées : ○ proxys, pondérations, fenêtres, versioning</li><li>Diagnostics : ○ drift \\(\\langle \\frac{dE}{dt} \\rangle\\)\\(\\langle \\frac{dE}{dt} \\rangle_h\\)",
+          "contexte": "</p> <ul><li>Série temporelle (mensuelle/trimestrielle) : ○ \\(P(t)\\), \\(O(t)\\), \\(@(t)\\), \\(\\Delta d(t)\\), \\(E(t)\\), \\(R(t)\\), L(t)</li><li>Métadonnées : ○ proxys, pondérations, fenêtres, versioning</li><li>Diagnostics : ○ drift \\(\\langle \\frac{dE}{dt} \\rangle\\)\\(\\langle \\frac{dE}{dt} \\rangle_h\\), \\(\\langle \\frac{dR}{dt} \\rangle\\)</li></ul> <p>_h\\(\\langle",
+          "position": 122527
+        }
+      ],
+      "latex_commands_outside_math": [],
+      "at_on_off_outside_math": [],
+      "unicode_counts": {
+        "—": 0,
+        "–": 0,
+        "−": 0,
+        "≥": 0,
+        "≤": 0,
+        "≠": 0,
+        "≈": 0
+      }
+    },
+    {
+      "path": "nep/index.html",
+      "doublons_consecutifs": [
+        {
+          "ligne": 120,
+          "texte": "</section>",
+          "repetitions": 6,
+          "positions": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+          ]
+        }
+      ],
+      "artefacts_critical": [],
+      "latex_commands_outside_math": [],
+      "at_on_off_outside_math": [],
+      "unicode_counts": {
+        "—": 0,
+        "–": 0,
+        "−": 0,
+        "≥": 0,
+        "≤": 0,
+        "≠": 0,
+        "≈": 0
+      }
+    }
+  ]
+}

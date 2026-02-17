@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>NEP-LIMITE : passage de la théorie à l’audit</title>
+<link href="assets/style.css" rel="stylesheet"/>
+<script>
+window.MathJax = {
+  tex: {inlineMath: [['\\(','\\)']], displayMath: [['\\[','\\]']]},
+  options: {skipHtmlTags: ['script','noscript','style','textarea','pre','code']}
+};
+</script>
+<script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div class="app">
+<aside class="sidebar">
+<h2>NEP-LIMITE : passage de la théorie à l’audit</h2>
+<div class="meta">Navigation page par page. Texte sélectionnable. Formules rendues par MathJax.</div>
+<div class="meta"><a href="index.html">Retour index</a></div>
+<ul class="toc">
+<li><a href="#p1">Page 1</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p1-h1">NEP-LIMITE : passage de la théorie à</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p1-h2">Programme de stabilisation méthodologique et d’auditabilité</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p1-h3">Mesurabilité opérationnelle</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p1-h4">Modèle ODE trop simplifié pour la réalité</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p1-h5">Légitimation \(G(t)\) sous-théorisée</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p1-h6">Absence de cas d’étude chiffrés</a></li>
+<li><a href="#p2">Page 2</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p2-h1">Délai et certitude de sanction :</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p2-h2">Intégrité des équipes de contrôle :</a></li>
+<li><a href="#p3">Page 3</a></li>
+<li style="margin-left:14px; opacity:.92;"><a href="#p3-h1">Typologie utile :</a></li>
+<li><a href="#p4">Page 4</a></li>
+</ul>
+</aside>
+<main class="main">
+<div class="topbar">
+<button class="btn" id="btnPrev">Précédent</button>
+<button class="btn" id="btnNext">Suivant</button>
+<span class="badge" id="pageIndicator">Page 1</span>
+<input class="input" id="pageInput" max="4" min="1" type="number" value="1"/>
+<button class="btn" id="btnGo">Aller</button>
+<span style="flex:1;"></span>
+<a class="btn" href="index.html" style="display:inline-block;">Index</a>
+</div>
+<div class="content">
+<section class="page" id="p1">
+<div class="page-header"><span>NEP-LIMITE : passage de la théorie à l’audit</span><span>Page 1 / 4</span></div>
+<h3 id="p1-h1">NEP-LIMITE : passage de la théorie à</h3>
+<p>l’audit</p>
+<h3 id="p1-h2">Programme de stabilisation méthodologique et d’auditabilité</h3>
+<p>1. Constats de fragilité pour le passage à l’audit réel</p>
+<h3 id="p1-h3">Mesurabilité opérationnelle</h3>
+<p>\(P(t)\), \(O(t)\), \(E(t)\), \(R(t)\) sont des composites de proxys. Le choix des pondérations, des fenêtres et des normalisations reste en partie arbitraire, même s’il est versionné. Sans jeu de données concret et calibration empirique, \(@(t)\) et \(\Delta d\) risquent de rester qualitatifs. Le texte le reconnaît, mais c’est un point critique pour passer de la théorie à l’audit NEP-LIMITE.</p>
+<h3 id="p1-h4">Modèle ODE trop simplifié pour la réalité</h3>
+<p>Le système minimal est élégant, mais local et linéarisé autour d’un équilibre. Il capture mal les non-linéarités fortes, les chocs exogènes, les effets de réseau massifs et certaines boucles de rétroaction culturelles ou institutionnelles, notamment via \(G(t)\). Les extensions sont mentionnées, mais non développées.</p>
+<h3 id="p1-h5">Légitimation \(G(t)\) sous-théorisée</h3>
+<p>La section sur la stabilité narrative est pertinente, mais \(G(t)\) reste un paramètre exogène. La question centrale est de le mesurer et de le renforcer concrètement, sans retomber dans un discours politique.</p>
+<h3 id="p1-h6">Absence de cas d’étude chiffrés</h3>
+<p>Le manuscrit ne fournit pas d’exemple chiffré avec séries temporelles réelles, même anonymisées. Cela maintient le texte au niveau de cadre conceptuel et reporte la validation sur des instanciations futures.</p>
+<h3 id="p1-h7">Risque de circularité sur la maturité</h3>
+<p>Un système est dit adulte s’il active L avant le seuil critique, mais si L est faible ou contournable, il ne l’active pas. Un critère de retour en régime stable après stress est plus robuste, mais il dépend de stress tests bien conçus, ce qui n’est pas trivial.</p>
+<p>2. Correctifs méthodologiques proposés</p>
+<p>2.1. Rendre les composites auditables malgré l’arbitraire des proxys</p>
+<p>Le problème n’est pas l’existence de choix, mais l’absence d’un protocole de calibration qui transforme des choix versionnés en choix justifiés et résistants au gaming. Éléments minimaux à ajouter pour rendre \(@(t)\) et \(\Delta d\) auditables :</p>
+<h3 id="p1-h8">Protocole de documentation recommandé pour chaque proxy X_i :</h3>
+</section>
+<section class="page" id="p2">
+<div class="page-header"><span>NEP-LIMITE : passage de la théorie à l’audit</span><span>Page 2 / 4</span></div>
+<p>Normalisation recommandée : normalisation robuste déclarée, par quantiles ou z-scores robustes. Pondérations : remplacer la simple arbitraire par une règle calibrée, par exemple un poids égal à l’importance du dommage en cas d’échec multipliée par la sensibilité observée sur incidents. Ajout décisif : audit de stabilité du score. Si de faibles variations de fenêtre ou de normalisation inversent le classement des risques, le score est déclaré instable et ne doit pas piloter des décisions automatiques.</p>
+<ul><li>Règle de construction reproductible des composites \(P(t)\), \(O(t)\), \(E(t)\), \(R(t)\).</li></ul>
+<ul><li>Calibration minimale sur scénarios synthétiques et incidents passés, même en faible nombre.</li></ul>
+<ul><li>Dispositif explicite anti-gaming et tests de manipulabilité.</li></ul>
+<ul><li>Définition opérationnelle.</li></ul>
+<ul><li>Plage attendue et unités.</li></ul>
+<ul><li>Sens de risque, augmentation ou diminution.</li></ul>
+<ul><li>Source, fréquence, latence, disponibilité.</li></ul>
+<ul><li>Test de manipulabilité et conditions de falsification.</li></ul>
+<p>2.2. Clarifier le rôle du modèle ODE et ajouter des extensions obligatoires</p>
+<p>Le modèle ODE minimal ne doit pas être présenté comme un jumeau numérique. Il sert à formaliser des couplages et à définir des signatures de régimes. L’audit, lui, se fonde sur des observables et des tests. Correctifs minimaux compatibles avec le manuscrit principal :</p>
+<p>Articulation proposée : théorie pour la stabilité qualitative et les invariants, audit pour la mesure, les stress tests et la décision.</p>
+<ul><li>Introduire un terme de chocs exogènes u(t) dans le schéma conceptuel.</li></ul>
+<ul><li>Introduire un module de retard τ sur les boucles critiques.</li></ul>
+<ul><li>Introduire un module réseau minimal, même sous forme de proxy, comme densité de couplage et vitesse de propagation.</li></ul>
+<p>2.3. Opérationnaliser \(G(t)\) sans politiser la mesure</p>
+<p>Pour rendre la stabilité narrative audit-compatible, \(G(t)\) doit devenir un composite mesurable, comme \(P(t)\), \(O(t)\), \(E(t)\), \(R(t)\). Trois familles de proxys auditables : Conformité effective :</p>
+<h3 id="p2-h1">Délai et certitude de sanction :</h3>
+<h3 id="p2-h2">Intégrité des équipes de contrôle :</h3>
+<p>Mécanisme de renforcement concret : \(G(t)\) augmente si les règles s’appliquent rapidement et de façon prévisible. \(G(t)\) diminue si exemptions et délais dérivent durablement.</p>
+</section>
+<section class="page" id="p3">
+<div class="page-header"><span>NEP-LIMITE : passage de la théorie à l’audit</span><span>Page 3 / 4</span></div>
+<ul><li>Taux d’exemptions aux règles et réversibilité des exemptions.</li></ul>
+<ul><li>Taux de contournement détecté et délai de détection.</li></ul>
+<ul><li>Écart entre règle formelle et exécution effective.</li></ul>
+<ul><li>Délai médian d’application des sanctions.</li></ul>
+<ul><li>Variance des délais et dérive temporelle.</li></ul>
+<ul><li>Taux d’exécution réelle des sanctions décidées.</li></ul>
+<ul><li>Turnover des équipes de contrôle.</li></ul>
+<ul><li>Signaux de capture régulatoire mesurables, par exemple revolving door et conflits d’intérêt déclarés.</li></ul>
+<ul><li>Instabilité des procédures de contrôle et interruptions.</li></ul>
+<p>2.4. Ajouter une preuve de vie empirique sans exposer de données sensibles</p>
+<p>L’absence de cas chiffrés est acceptable pour un cadre théorique, mais l’audit requiert une démonstration minimale. Correctif minimal : ajouter une annexe jeu de données d’illustration :</p>
+<p>Même un dataset synthétique bien construit suffit pour démontrer que les indicateurs sont calculables et qu’ils discriminent des régimes.</p>
+<ul><li>Séries temporelles synthétiques avec trois régimes, stable, oscillant, bifurcation.</li></ul>
+<ul><li>Démonstration des signatures \(@(t)\), \(\Delta d\), \(E(t)\) et \(R(t)\).</li></ul>
+<ul><li>Stress tests standardisés, définis et reproductibles.</li></ul>
+<p>2.5. Supprimer la circularité sur la maturité en séparant capacité et activation</p>
+<p>Pour éviter la tautologie, il faut séparer la capacité d’arrêt et l’activation de l’arrêt. Un système peut avoir une forte capacité mais une faible activation, par capture, exemptions ou \(G(t)\) faible. Définition proposée :</p>
+<h3 id="p3-h1">Typologie utile :</h3>
+<p>Exigence de tests adversariaux : tests de contournement, tests d’exception, tests de surcharge organisationnelle. Sans cela, la maturité peut produire des faux positifs.</p>
+<ul><li>\(L_{cap}\) : performance des mécanismes d’arrêt, testée, en conditions réalistes.</li></ul>
+<ul><li>\(L_{act}\) : déclenchement effectif, fréquence, rapidité, et absence de dérive sous stress.</li></ul>
+<ul><li>Mature : \(L_{cap}\) élevé et \(L_{act}\) non dégradé sous stress.</li></ul>
+<ul><li>Immature : \(L_{cap}\) faible, même si le discours est fort.</li></ul>
+<ul><li>Dissonant : \(L_{cap}\) élevé mais \(L_{act}\) bas de façon persistante, avec exemptions et contournements.</li></ul>
+</section>
+<section class="page" id="p4">
+<div class="page-header"><span>NEP-LIMITE : passage de la théorie à l’audit</span><span>Page 4 / 4</span></div>
+<p>3. Formulation synthétique à intégrer en conclusion</p>
+<p>NEP-LIMITE devient audit-compatible si les composites \(P(t)\), \(O(t)\), \(E(t)\), \(R(t)\), et \(G(t)\) sont calibrés sur données ou stress tests, et si la maturité est définie comme performance testée de \(L_{cap}\) et \(L_{act}\) sous scénarios adversariaux, plutôt que comme conformité déclarative.</p>
+</section>
+</div>
+</main>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

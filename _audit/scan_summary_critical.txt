@@ -1,0 +1,3 @@
+index.html: doublons=0, artefacts_critical=0, cmds_hors_maths=0, unicode=aucun
+civ/index.html: doublons=27, artefacts_critical=13, cmds_hors_maths=0, unicode=aucun
+nep/index.html: doublons=1, artefacts_critical=0, cmds_hors_maths=0, unicode=aucun
